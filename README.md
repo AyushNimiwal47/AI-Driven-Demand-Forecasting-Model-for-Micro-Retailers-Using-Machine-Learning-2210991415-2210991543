@@ -4,7 +4,7 @@
 **AI-Driven Demand Forecasting Model for Micro-Retailers Using Machine Learning**
 
 ## Type
-Research Paper (IEEE Format)
+Technological Forecasting & Social Change
 
 ## Team Details
 
