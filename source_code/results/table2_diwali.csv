@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE (%)
+ARIMA,9.12,13.47,28.3
+Random Forest,6.34,9.11,18.6
+LSTM (Proposed),4.38,6.42,13.1

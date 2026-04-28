@@ -1,0 +1,4 @@
+Strategy,MAPE <30 days,MAPE >45 days
+No strategy (baseline),41%,20%
+Category-level proxy,22%,15%
+Fine-tuned LSTM,—,11.8%
